@@ -1,8 +1,8 @@
 def connect():
     import network
  
-    ssid = "marine_AP_18-53"
-    password =  "marine123"
+    ssid = "your ssid" 
+    password = "your password" 
  
     station = network.WLAN(network.STA_IF)
  
